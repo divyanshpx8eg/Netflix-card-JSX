@@ -9,8 +9,8 @@ A simple and responsive React application that displays a list of Netflix-style 
 
 ## 📸 Preview
 
-![Netflix Card Preview](https://via.placeholder.com/800x400?text=Netflix+Series+Catalog+Preview)
-*Demo screenshot here (you can update this with a real image once deployed)*
+<img width="1365" height="569" alt="image" src="https://github.com/user-attachments/assets/409d3882-316c-4b95-8d00-8e966b060899" />
+
 
 ---
 
